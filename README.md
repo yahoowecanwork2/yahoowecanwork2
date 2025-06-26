@@ -38,6 +38,7 @@
 ---
 
 ### 📁 Featured Projects
+- 🍯 [HunnyBee](https://github.com/yahoowecanwork2/hunnybee) — A React-based frontend project focused on design and usability
 
 - 🎮 [Tic Tac Toe Game](https://github.com/yahoowecanwork2/tic-tac-toe-) — A simple React-based classic game
 - 🎨 [CSS Practice](https://github.com/yahoowecanwork2/learning-css) — All my layout experiments & designs
