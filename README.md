@@ -49,12 +49,11 @@
 
 ---
 
-### 🎨 [CSS Practice](https://github.com/yahoowecanwork2/learning-css)
-> All my layout experiments, positioning techniques, and design trials  
-✔️ Grids, Flexbox, Box Model  
-🛠️ Tech Used: HTML, CSS
+⚛️ React Learning Projects
 
----
+A collection of beginner to intermediate React practice projects
+✔️ Covers props, state, components, hooks, and routing
+✔️ Continuously expanding with new experimentsTech Used: React, JavaScript, CSS
 
 ## 📈 GitHub Stats
 
