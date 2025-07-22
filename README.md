@@ -57,7 +57,7 @@ A collection of beginner to intermediate React practice projects
 
 ## 📈 GitHub Stats
 
- Optional GitHub Stats (uncomment if desired)
+
 ![Neha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yahoowecanwork2&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yahoowecanwork2&layout=compact)
 
